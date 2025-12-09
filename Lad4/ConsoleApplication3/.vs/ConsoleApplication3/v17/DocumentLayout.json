@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MUT-00\\source\\repos\\ConsoleApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21A8D4BC-B01F-4AA9-935F-0B2483E9EF63}|ConsoleApplication4\\ConsoleApplication4.vcxproj|C:\\Users\\MUT-00\\source\\repos\\ConsoleApplication3\\ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21A8D4BC-B01F-4AA9-935F-0B2483E9EF63}|ConsoleApplication4\\ConsoleApplication4.vcxproj|solutionrelative:ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3E414-36E7-4C03-ADA7-F6BCF37ED74D}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\MUT-00\\source\\repos\\ConsoleApplication3\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5B3E414-36E7-4C03-ADA7-F6BCF37ED74D}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDD34C3-2B5D-4A17-8E2B-14CDFBA2C36D}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\MUT-00\\source\\repos\\ConsoleApplication3\\ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CDD34C3-2B5D-4A17-8E2B-14CDFBA2C36D}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD53367-CCFD-400A-BF5E-F5B0C699FEDC}|ConsoleApplication3\\ConsoleApplication3.vcxproj|C:\\Users\\MUT-00\\source\\repos\\ConsoleApplication3\\ConsoleApplication3\\ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CD53367-CCFD-400A-BF5E-F5B0C699FEDC}|ConsoleApplication3\\ConsoleApplication3.vcxproj|solutionrelative:ConsoleApplication3\\ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication4.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\source\\repos\\ConsoleApplication3\\ConsoleApplication4\\ConsoleApplication4.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication4\\ConsoleApplication4.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\source\\repos\\ConsoleApplication3\\ConsoleApplication4\\ConsoleApplication4.cpp",
+              "RelativeToolTip": "ConsoleApplication4\\ConsoleApplication4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T10:04:28.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApplication2.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\source\\repos\\ConsoleApplication3\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\ConsoleApplication2.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\source\\repos\\ConsoleApplication3\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "RelativeToolTip": "ConsoleApplication2\\ConsoleApplication2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T09:55:41.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\source\\repos\\ConsoleApplication3\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\source\\repos\\ConsoleApplication3\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T09:49:39.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleApplication3.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\source\\repos\\ConsoleApplication3\\ConsoleApplication3\\ConsoleApplication3.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\ConsoleApplication3.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\source\\repos\\ConsoleApplication3\\ConsoleApplication3\\ConsoleApplication3.cpp",
+              "RelativeToolTip": "ConsoleApplication3\\ConsoleApplication3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T09:48:34.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
